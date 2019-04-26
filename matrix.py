@@ -1,4 +1,4 @@
-class matrix:
+class Matrix:
     def __init__(self, row1column1 = 0, row1column2 = 0, row2column1 = 0, row2column2 = 0):
         self.row1column1 = row1column1
         self.row1column2 = row1column2
